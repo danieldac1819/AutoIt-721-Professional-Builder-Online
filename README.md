@@ -2,6 +2,17 @@
 **Online Builder (Trial):**  
 https://au3maker.itdev721.workers.dev
 
+
+## Usage Video (YouTube)
+
+A step-by-step usage guide is available on YouTube:
+
+▶ **AutoIt 721 Professional Builder Online – Usage Tutorial**  
+https://www.youtube.com/watch?v=kBVP7A9TWKM&feature=youtu.be
+
+The video demonstrates the online builder workflow and basic usage scenarios.
+
+
 ## Introduction
 
 **AutoIt 721 Professional Builder Online** is a build and packaging tool designed to convert **AutoIt scripts (`.au3`)** into **Windows executable files (`.exe`)**, with a strong focus on **source code protection** and **anti-reverse engineering** at build time.
